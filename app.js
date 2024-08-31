@@ -1,5 +1,9 @@
 function greet(name) {
-    return `Hello, ${name}!`;
+    return `Hi, ${name}!`;
+}
+
+function contador(numeros) { 
+    return `El array tiene ${numeros.length} elementos`;
 }
 
 function message(name) {
